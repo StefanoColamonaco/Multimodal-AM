@@ -3,6 +3,8 @@ import torch
 import torch.nn.functional as F
 import torch.nn as nn
 
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 class PositionalEncoding(nn.Module):
     """
         Positional Encoding for Transformer
