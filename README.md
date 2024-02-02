@@ -39,35 +39,35 @@ The results are reporte in the following table:
         <th colspan="1">STD</th>
     </tr>
     <tr>
-        <td colspan="1">unaligned</td>
+        <td colspan="1">MulT-TA</td>
         <td colspan="1">0.700</td>
         <td colspan="1">0.003</td>
         <td colspan="1">0.699</td>
         <td colspan="1">0.002</td>
     </tr>
     <tr>
-        <td colspan="1">multimodal</td>
+        <td colspan="1">CSA</td>
         <td colspan="1">0.699</td>
         <td colspan="1">0.005</td>
         <td colspan="1">0.698</td>
         <td colspan="1">0.006</td>
     </tr>
     <tr>
-        <td colspan="1">ensembling</td>
+        <td colspan="1">Ensembling</td>
         <td colspan="1">0.683</td>
         <td colspan="1">0.002</td>
         <td colspan="1">0.682</td>
         <td colspan="1">0.001</td>
     </tr>
     <tr>
-        <td colspan="1">text-only</td>
+        <td colspan="1">Text-Only</td>
         <td colspan="1">0.681</td>
         <td colspan="1">0.002</td>
         <td colspan="1">0.680</td>
         <td colspan="1">0.002</td>
     </tr>
     <tr>
-        <td colspan="1">audio_only</td>
+        <td colspan="1">Audio-Only</td>
         <td colspan="1">0.549</td>
         <td colspan="1">0.002</td>
         <td colspan="1">0.523</td>
