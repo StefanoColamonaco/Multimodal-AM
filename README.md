@@ -33,10 +33,10 @@ The results are reporte in the following table:
     </tr>
     <tr>
         <th colspan="1">Model</th>
-        <th colspan="1">Train</th>
-        <th colspan="1">Test</th>
-        <th colspan="1">Train</th>
-        <th colspan="1">Test</th>
+        <th colspan="1">Mean</th>
+        <th colspan="1">STD</th>
+        <th colspan="1">Mean</th>
+        <th colspan="1">STD</th>
     </tr>
     <tr>
         <td colspan="1">unaligned</td>
