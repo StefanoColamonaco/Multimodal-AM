@@ -40,38 +40,38 @@ The results are reporte in the following table:
     </tr>
     <tr>
         <td colspan="1">MulT-TA</td>
-        <td colspan="1">0.700</td>
-        <td colspan="1">0.003</td>
-        <td colspan="1">0.699</td>
-        <td colspan="1">0.002</td>
+        <td colspan="1">0.7008</td>
+        <td colspan="1">0.0040</td>
+        <td colspan="1">0.7000</td>
+        <td colspan="1">0.0038</td>
     </tr>
     <tr>
         <td colspan="1">CSA</td>
-        <td colspan="1">0.699</td>
-        <td colspan="1">0.005</td>
-        <td colspan="1">0.698</td>
-        <td colspan="1">0.006</td>
+        <td colspan="1">0.6989</td>
+        <td colspan="1">0.0055</td>
+        <td colspan="1">0.6980</td>
+        <td colspan="1">0.0056</td>
     </tr>
     <tr>
         <td colspan="1">Ensembling</td>
-        <td colspan="1">0.683</td>
-        <td colspan="1">0.002</td>
-        <td colspan="1">0.682</td>
-        <td colspan="1">0.001</td>
+        <td colspan="1">0.6826</td>
+        <td colspan="1">0.0033</td>
+        <td colspan="1">0.6814</td>
+        <td colspan="1">0.0034</td>
     </tr>
     <tr>
         <td colspan="1">Text-Only</td>
-        <td colspan="1">0.681</td>
-        <td colspan="1">0.002</td>
-        <td colspan="1">0.680</td>
-        <td colspan="1">0.002</td>
+        <td colspan="1">0.6810</td>
+        <td colspan="1">0.0018</td>
+        <td colspan="1">0.6792</td>
+        <td colspan="1">0.0021</td>
     </tr>
     <tr>
         <td colspan="1">Audio-Only</td>
-        <td colspan="1">0.549</td>
-        <td colspan="1">0.002</td>
-        <td colspan="1">0.523</td>
-        <td colspan="1">0.016</td>
+        <td colspan="1">0.5472</td>
+        <td colspan="1">0.0014</td>
+        <td colspan="1">0.5264</td>
+        <td colspan="1">0.0120</td>
     </tr>
   </tbody>
 </table>
