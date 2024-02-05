@@ -21,6 +21,7 @@ We implemented and tested five different models:
 The code is organized as follows:
 - `CustomTransformer.py` contains the implementation of a custom Encoder Layer for the Multi-modal Transformer model;
 - `main.ipynb` contains the code for the definition of the models, the training and, evaluation and the error analysis;
+The code is available and ready to run at the following [Kaggle link](https://www.kaggle.com/andreazecca/multimodal-am)
 
 ## Results
 The results are reporte in the following table:
